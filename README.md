@@ -1,9 +1,9 @@
-# SHAP_reference
+# SHAP reference notebook
 
 Setup to run:
 
 1. Download repository 
-2. Setup anaconda enviroment with running ```pip install requirements_anaconda.txt``` (separate requirements file to accept interactive packages that do not load in mybinder)
+2. Setup anaconda enviroment with running ```pip install requirements_anaconda.txt``` (this is a separate requirements file to accept interactive packages that do not load in mybinder)
 2. Run SHAP reference code notebook
 
 Or run via mybinder (does not accept interactive packages without failing to load event stream):
