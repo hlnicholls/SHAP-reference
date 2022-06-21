@@ -1,5 +1,7 @@
 # SHAP reference notebook
 
+- Reference notebook for various SHAP visualisations.
+
 Setup to run:
 
 1. Download repository 
