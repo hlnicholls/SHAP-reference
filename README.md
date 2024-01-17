@@ -1,6 +1,6 @@
 # SHAP reference notebook
 
-- Reference notebook for various SHAP visualisations.
+- Reference notebook for various SHAP visualisations (main file is **SHAP reference code.ipynb**)
 - If notebook fails to load in GitHub open here: https://nbviewer.org/github/hlnicholls/SHAP-reference/blob/main/SHAP%20reference%20code.ipynb
 
 Setup to run:
